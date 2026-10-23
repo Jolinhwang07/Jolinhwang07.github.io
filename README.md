@@ -1,2 +1,2 @@
-# your-github-jolinhwang07
+# Jolin-github-jolinhwang07
 My personal portfolio website
